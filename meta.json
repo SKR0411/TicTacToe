@@ -17,10 +17,9 @@
   "permissions": [],
   "icons": [
     "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/ic_icon_round.png",
-    "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/ic_icon.jpg"
+    "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/ic_icon.png"
   ],
   "screenshots": [
-    "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/welcome_screen.jpg",
     "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/home_screen.jpg",
     "https://raw.githubusercontent.com/SKR0411/TicTacToe/main/assets/result_screen.jpg"
   ],
