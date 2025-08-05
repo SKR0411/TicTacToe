@@ -24,7 +24,8 @@
   ],
   "screenshots": [
     "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/welcome_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/home_screen.jpg"
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/home_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/result_screen.jpg"
   ],
   "apk": {
     "url": "https://github.com/SKR0411/TicTacToe/releases/download/v1.0/tic_tac_toe.apk",
@@ -32,6 +33,6 @@
     "minSdk": 16,
     "targetSdk": 30
   },
-  "tags": ["game", "tic tac toe", "xo", "offline", "two player", "board game", "AI"],
+  "tags": ["game", "tic tac toe", "xo", "offline", "two player", "board game"],
   "releaseDate": "2025-08-01"
 }
